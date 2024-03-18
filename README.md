@@ -26,5 +26,3 @@
 ### Projects
 Personal Website
 - This website!
-
-[Other page!](./test.md)

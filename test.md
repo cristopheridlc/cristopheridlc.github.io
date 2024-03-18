@@ -1,5 +1,0 @@
-# Hi!
-
-Another page.
-
-[back](./)
