@@ -19,6 +19,7 @@
 
 ### University of South Carolina Upstate
 - Bachelor of Arts in Information Management Systems
+
 ### Greenville Technical College
 - Associate in Computer Technology
 
