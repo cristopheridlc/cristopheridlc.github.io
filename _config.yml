@@ -1,5 +1,5 @@
 title: Cristopher De La Cruz
-#logo:
-#description:
+logo: /assets/image.jpg
+description: A simple website to show my work experience.
 show_downloads: false
 theme: jekyll-theme-minimal
